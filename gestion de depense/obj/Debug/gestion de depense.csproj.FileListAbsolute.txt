@@ -1,0 +1,36 @@
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe.config
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\bin\Debug\gestion de depense.pdb
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csprojResolveAssemblyReference.cache
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Form1.resources
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Properties.Resources.resources
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csproj.GenerateResource.Cache
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion de depense.exe
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion de depense.pdb
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.ajout_de_depense.resources
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.menu.resources
+C:\Users\ossama\Desktop\projects\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.gestion_depense.resources
+D:\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe.config
+D:\gestion de depense\gestion de depense\obj\Debug\gestion de depense.exe
+D:\gestion de depense\gestion de depense\obj\Debug\gestion de depense.pdb
+D:\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe
+D:\gestion de depense\gestion de depense\bin\Debug\gestion de depense.pdb
+D:\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csprojResolveAssemblyReference.cache
+D:\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.ajout_de_depense.resources
+D:\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Form1.resources
+D:\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.gestion_depense.resources
+D:\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.menu.resources
+D:\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Properties.Resources.resources
+D:\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe.config
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion de depense.exe
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion de depense.pdb
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\bin\Debug\gestion de depense.exe
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\bin\Debug\gestion de depense.pdb
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.ajout_de_depense.resources
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Form1.resources
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.gestion_depense.resources
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.menu.resources
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion_de_depense.Properties.Resources.resources
+C:\Users\HP\Desktop\gestion de depense\gestion de depense\obj\Debug\gestion de depense.csproj.GenerateResource.Cache
